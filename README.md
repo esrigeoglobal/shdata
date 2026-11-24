@@ -131,4 +131,4 @@ Docker file for ARM's armnn deep learning lib for Android device
 
 [openvino_armnn_x86_64](https://github.com/nullbyte91/simple-Sh-DataScience/tree/master/docker/x86_64/)<br>
 Docker file for ARM's armnn deep learning lib for x86_64
----
+
